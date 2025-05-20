@@ -1,4 +1,4 @@
-# Mr.Kanf commited
+# Mr.Kang commited
 # Program make a simple calculator
 
 # This function adds two numbers
